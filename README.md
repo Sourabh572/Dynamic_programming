@@ -1,4 +1,4 @@
-# Dynamic_programming
+# Search
   fi  = [0]*26
   se  = [0]*26*26
   th  = [0]*26*26
